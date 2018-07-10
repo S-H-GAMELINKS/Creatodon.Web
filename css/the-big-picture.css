@@ -11,3 +11,8 @@ body {
   background-size: cover;
   -o-background-size: cover;
 }
+
+p {
+  color: black;
+  background-color:rgb(255, 255, 255,0.5)
+}
